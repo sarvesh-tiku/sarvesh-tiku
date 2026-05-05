@@ -7,3 +7,4 @@ lately i’ve been spending a lot of time on distributed llm inference, kv-cache
 i enjoy working close to the system, whether that’s debugging bottlenecks, optimizing data flow, or designing components that can scale cleanly  
 
 outside of that, i’m usually building systems-oriented projects or exploring low-level performance and distributed design
+ps. my old github account got restricted so i just made a new one! which should explain the commit history!
