@@ -1,4 +1,4 @@
-hey, i'm sarvesh — a cs junior at georgia tech focused on machine learning systems and infrastructure, and i like building things that have to work at scale and under real constraints  
+hey, i'm sarvesh - a cs junior at georgia tech focused on machine learning systems and infrastructure, and i like building things that have to work at scale and under real constraints  
 
 i’ve worked on backend and infra-heavy systems, including platforms handling high-concurrency traffic, distributed pipelines, and production-style environments where performance and reliability actually matter  
 
