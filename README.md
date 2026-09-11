@@ -6,4 +6,4 @@ lately i’ve been spending a lot of time on distributed llm inference, kv-cache
 
 i enjoy working close to the system, whether that’s debugging bottlenecks, optimizing data flow, or designing components that can scale cleanly  
 
-outside of that, i’m usually building systems-oriented projects or exploring low-level performance and diverse distributed design systems! i'm always down to collaborate, reach me at sarveshtiku@gmail.com to work on something together!
+outside of that, i’m usually building systems-oriented projects or exploring low-level performance and distributed design systems! i'm always down to collaborate, reach me at sarveshtiku@gmail.com to work on something together!
